@@ -1,0 +1,22 @@
+-פרויקט בן חג'ג' theschool 
+
+-קובץ DB נמצא בתייקיה בשם theschool.sql 
+  
+-כניסה למשתמשים בסוגים שונים.
+
+owner
+bengala2071@gmail.com
+password 123123 
+
+sales
+noam@gmail.com
+password 123123
+
+manager
+nir@gmail.com
+password 123123 
+
+-לשים לב בקובץ .env שם רשום פרטי ה DB 
+יש לשנות שם כרגע זה root וסיסמא  כרגע זה 123123 במידת הצורך
+
+-העלאת תמונות לשינוי או הוספה בתוך תייקית theschool -> public ->images . 
