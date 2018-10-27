@@ -12,11 +12,8 @@ start git heelko
 start git heelko
 start git heelkostart git heelko
 start git heelko
-<<<<<<< HEAD
 this is a change in master branch
 this is a change in master branch
 this is a change in master branch
-=======
 asddkcnfv
 dfd
->>>>>>> alpha
